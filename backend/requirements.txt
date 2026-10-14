@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+scikit-learn
+shap
+httpx
