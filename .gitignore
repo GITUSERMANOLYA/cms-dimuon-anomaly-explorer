@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/*.csv
+data/scores_cache.npz
+.DS_Store
